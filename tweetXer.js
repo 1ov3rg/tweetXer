@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         TweetXer
+// @1ov3rg         TweetXer
 // @namespace    https://github.com/lucahammer/tweetXer/
 // @version      0.10.0
 // @description  Delete all your Tweets for free.
